@@ -1,0 +1,5 @@
+.hg/
+.hgignore
+build/Release/*
+build/ipch/*
+build/textgl.sdf
